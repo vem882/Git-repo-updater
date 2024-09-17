@@ -1,0 +1,14 @@
+{
+  "repositories": [
+    {
+      "repo_dir": "/home/example/testdir",
+      "branch": "main",
+      "github_repo": "git@github.com:username/repository.git"
+    },
+    {
+      "repo_dir": "/var/www/backend/",
+      "branch": "dev",
+      "github_repo": "git@github.com:username/repository.git"
+    }
+  ]
+}
